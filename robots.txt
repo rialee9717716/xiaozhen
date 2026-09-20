@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rialee9717716.github.io/xiaozhen/sitemap.xml
